@@ -161,3 +161,9 @@ cython_debug/
 
 # mlflow
 mlruns/
+
+# Juypter notebooks
+notebooks
+
+# vscode settings
+.vscode
